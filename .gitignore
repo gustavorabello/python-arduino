@@ -1,0 +1,10 @@
+.DS_Store
+*pyc
+*swp
+*.pdf
+*.png
+*.jpg
+*.tif
+*.tiff
+*.dat
+*.vtk
